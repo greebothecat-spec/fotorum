@@ -293,7 +293,7 @@ def index():
 def remove_bg():
     return remove(request.files["image"].read()), 200, {'Content-Type': 'image/png'}
 
-if __name__ == "__main__":
+
 
 import os
 
