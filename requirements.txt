@@ -2,4 +2,3 @@ flask
 rembg
 pillow
 gunicorn
-`
